@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Immanuel
 
-🎓 Aspiring Engineer | 👨‍💻 Python Developer | 🤖 AI & Assistive Tech Enthusiast
+AI & Assistive Tech Enthusiast
 
 I'm passionate about building real-world solutions that help people. I enjoy working on Python-based projects, especially in AI, computer vision, and embedded systems. Currently working on projects like Blind Assistance (YOLOv5 + Flask + Arduino) and FretScribe (guitar audio to tablature).
 
@@ -23,17 +23,12 @@ Real-time object detection app for visually impaired users using YOLOv5, Flask, 
 ### 🎸 [FretScribe](https://github.com/Immanuel2004/FretScribe)
 Streamlit web app that converts guitar audio into tablature and staff notation using pitch detection and MusicXML.
 
-### 📊 Data Projects *(coming soon!)*
-Stay tuned for EDA, ML models, and deployment-ready notebooks!
-
 ---
 
 ## 📫 Get in Touch
 
-- 📧 Email: your.email@example.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🌐 Portfolio (soon): [yourwebsite.com](https://yourwebsite.com)
-
+- 📧 Email: immanueljoshua35@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/immanuelg01)
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Immanuel2004&show_icons=true&theme=radical)
