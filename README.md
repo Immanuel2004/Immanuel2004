@@ -6,8 +6,8 @@ I'm passionate about building real-world solutions that help people. I enjoy wor
 
 ---
 
-## 🔧 Tech Stack
-- **Languages**: Python, JavaScript, C/C++
+## Tech Stack
+- **Languages**: Python, JavaScript, C
 - **Frameworks**: Flask, Streamlit
 - **Tools & Libraries**: OpenCV, YOLOv5, Numpy, Pandas, Matplotlib, scikit-learn
 - **Hardware**: Arduino Uno, Ultrasonic Sensors, Webcam Integration
@@ -15,20 +15,20 @@ I'm passionate about building real-world solutions that help people. I enjoy wor
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🦯 [Blind Assistance](https://github.com/Immanuel2004/Blind-Assistance)
+### [Blind Assistance](https://github.com/Immanuel2004/Blind-Assistance)
 Real-time object detection app for visually impaired users using YOLOv5, Flask, and an ultrasonic sensor with Arduino. Provides audio feedback via headphones.
 
-### 🎸 [FretScribe](https://github.com/Immanuel2004/FretScribe)
+### [FretScribe](https://github.com/Immanuel2004/FretScribe)
 Streamlit web app that converts guitar audio into tablature and staff notation using pitch detection and MusicXML.
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
-- 📧 Email: immanueljoshua35@example.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/immanuelg01)
+- Email: immanueljoshua35@example.com
+- [LinkedIn](https://www.linkedin.com/in/immanuelg01)
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Immanuel2004&show_icons=true&theme=radical)
