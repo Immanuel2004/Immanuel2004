@@ -42,13 +42,6 @@ Turns live or uploaded **guitar audio** into:
 
 ---
 
-##  Pinned Repositories
-
-- 🔗 [Blind Assistance](https://github.com/Immanuel2004/Blind-Assistance)  
-- 🔗 [FretScribe](https://github.com/Immanuel2004/FretScribe)  
-
----
-
 ##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Immanuel2004&show_icons=true&theme=radical)
