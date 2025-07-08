@@ -1,15 +1,35 @@
 # 👋 Hi, I'm Immanuel  
-**AI & Assistive Tech Enthusiast**
+**AI Engineer | GenAI & Assistive Tech Enthusiast**
 
-I'm passionate about building real-world, impactful solutions that help people, especially through AI and embedded systems. I enjoy working with Python-based stacks, integrating software and hardware, and deploying ML solutions.
+I'm passionate about solving real-world problems using AI, data, and embedded systems. I specialize in building intelligent applications that combine machine learning with hardware and real-time systems.
 
-Currently working on:  
-- **Blind Assistance** (YOLOv5 + Flask + Arduino)  
-- **FretScribe** (Real-time guitar audio to tablature)
+My current focus is on **Generative AI**, **machine learning pipelines**, and **assistive technologies** that have practical social impact.
 
 ---
 
-## Tech Stack
+## 🚀 Current Projects
+
+- 🔷 **[Blind Assistance](https://github.com/Immanuel2004/Blind-Assistance)**  
+  AI + IoT system that helps visually impaired users navigate using real-time object detection and audio feedback.
+
+- 🎸 **[FretScribe](https://github.com/Immanuel2004/FretScribe)**  
+  Converts live or uploaded guitar audio into tablature and staff notation using ML.
+
+---
+
+## 🧠 Interests & Skills
+
+- **AI & Machine Learning**: Supervised/Unsupervised Learning, Model Deployment  
+- **GenAI**: Hugging Face Transformers, LangChain, LLMs  
+- **Data Science**: EDA, Pandas, NumPy, Plotly, scikit-learn  
+- **Computer Vision**: YOLOv5, OpenCV, real-time inference  
+- **Audio Processing**: torchaudio, frequency-domain analysis  
+- **Embedded Systems**: Arduino Uno, sensor integration  
+- **Web Apps**: Streamlit, Flask, basic React & Tailwind CSS
+
+---
+
+## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,29 +40,39 @@ Currently working on:
 ![Hugging Face](https://img.shields.io/badge/-Huggingface-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/-LangChain-blueviolet?style=for-the-badge)
 
-   Tools & Libraries: OpenCV, YOLOv5, Pandas, NumPy, Matplotlib, scikit-learn, TensorFlow, Plotly, torchaudio, MusicXML  
-   Hardware: Arduino Uno, Ultrasonic Sensor, Webcam  
-   Dev Tools: Git & GitHub, Linux, Jupyter, VSCode, Conda/venv
+**Libraries & Frameworks**:  
+OpenCV, YOLOv5, Pandas, NumPy, Matplotlib, scikit-learn, TensorFlow, Plotly, torchaudio, MusicXML
+
+**Hardware & Sensors**:  
+Arduino Uno, Ultrasonic Sensor, Webcam, TTS Systems
+
+**Tools**:  
+Linux, Git & GitHub, VS Code, Jupyter, Conda/venv
 
 ---
 
-## Featured Projects
+## 🧩 Featured Projects
 
-###  [Blind Assistance](https://github.com/Immanuel2004/Blind-Assistance)  
-AI-powered real-time object detection for visually impaired users with:
+### [Blind Assistance](https://github.com/Immanuel2004/Blind-Assistance)  
+An assistive tech solution that enables real-time object detection and obstacle warning using:
+
 - YOLOv5 + Flask + OpenCV
-- Arduino + Ultrasonic Sensor for obstacle detection
-- Audio feedback via headphones (browser TTS)
-
-###  [FretScribe](https://github.com/Immanuel2004/FretScribe)  
-Turns live or uploaded **guitar audio** into:
-- Guitar **tablature**
-- **Staff notation** (MusicXML)
-- Built using Streamlit and custom audio-to-tab pipeline
+- Arduino + Ultrasonic Sensor
+- Audio feedback via browser text-to-speech
 
 ---
 
-##  GitHub Stats
+### [FretScribe](https://github.com/Immanuel2004/FretScribe)  
+Real-time guitar audio processing tool that outputs:
+
+- Guitar **tablature**
+- Standard **staff notation** (MusicXML)
+
+Built with Streamlit + torchaudio + custom ML pipeline.
+
+---
+
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Immanuel2004&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Immanuel2004&theme=radical&hide_border=true)
@@ -50,15 +80,13 @@ Turns live or uploaded **guitar audio** into:
 
 ---
 
-##  Contribution Graph
+## 📊 Contribution Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Immanuel2004&theme=react-dark)](https://github.com/Immanuel2004)
 
 ---
 
-##  Get in Touch
+## 📬 Get in Touch
 
--  Email: immanueljoshua35@example.com  
--  [LinkedIn](https://www.linkedin.com/in/immanuelg01)
-
----
+- 📧 Email: immanueljoshua35@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/immanuelg01)
