@@ -1,4 +1,4 @@
-#  Hi ,Immanuel 
+# Immanuel   
 **AI Engineer | GenAI & Assistive Technology Enthusiast**
 
 I am a passionate builder creating impactful, real-world solutions at the intersection of **AI, machine learning, and embedded systems**. My work spans **Generative AI, data-centric projects**, and **assistive technologies**, combining software and hardware to solve meaningful problems.
@@ -11,37 +11,58 @@ I focus on projects integrating:
 
 ---
 
-## Current Projects
+## Current and Featured Projects
+
+### Dynamic Impact Tool – Internship Project  
+**Repository:** [Medha Tech – Dynamic Impact Tool](https://github.com/MedhaTech/Dynamic-Impact-Tool.git)  
+**Role:** Intern, AI & ML Developer  
+
+Developed a tool to **analyze dynamic impact data** and generate actionable insights for engineering applications. The system combines data processing, machine learning modeling, and a web-based dashboard to visualize impact metrics.  
+
+**Key Contributions:**  
+- Implemented ML models for data prediction and analysis  
+- Built a Flask-based dashboard for visualization and reporting  
+- Optimized data preprocessing pipelines for large datasets  
+
+---
 
 ### Blind Assistance  
 **Repository:** [Blind Assistance](https://github.com/Immanuel2004/Blind-Assistance)  
-An AI + IoT-based object detection and feedback system for visually impaired users.  
+
+AI + IoT-based object detection and feedback system for visually impaired users.  
 
 **Tech Highlights:**  
 - YOLOv5 + Flask + OpenCV for real-time object detection  
 - Arduino + Ultrasonic sensor for obstacle detection  
 - Audio feedback through browser TTS  
 
+---
+
 ### FretScribe  
 **Repository:** [FretScribe](https://github.com/Immanuel2004/FretScribe)  
+
 Converts live or uploaded guitar audio into **tablature and staff notation**.  
 
 **Built With:** Streamlit, torchaudio, MusicXML rendering, custom ML pipeline  
 
-### Other Projects
+---
 
-#### AI-Based Exam Score Predictor  
+### End-to-End ML Project – Exam Score Predictor  
 **Repository:** [End-to-End ML Project](https://github.com/Immanuel2004/End-to-End-ML-Project)  
-Predicts students' math scores based on demographic and academic data using a complete ML pipeline.
+
+Predicts students' math scores based on demographic and academic data using a complete ML pipeline.  
 
 **Tech Highlights:**  
 - Flask web application for real-time predictions  
 - Data preprocessing, EDA, and model training  
 - Scikit-learn regression model with deployed pipeline  
 
-#### Audio Event Detection System  
+---
+
+### Audio Event Detection System  
 **Repository:** [Audio Event Detection](https://github.com/Immanuel2004/Audio-Event-Detection)  
-Detects audio events in real-time and classifies them for surveillance or accessibility applications.
+
+Detects audio events in real-time and classifies them for surveillance or accessibility applications.  
 
 **Tech Highlights:**  
 - PyTorch-based CNN model for audio classification  
