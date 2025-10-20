@@ -1,117 +1,115 @@
-# Immanuel   
+# Immanuel 
 **AI Engineer | GenAI & Assistive Technology Enthusiast**
 
-I am a passionate builder creating impactful, real-world solutions at the intersection of **AI, machine learning, and embedded systems**. My work spans **Generative AI, data-centric projects**, and **assistive technologies**, combining software and hardware to solve meaningful problems.
+I am a dedicated AI Engineer creating impactful solutions at the intersection of **AI, machine learning, NLP, and embedded systems**. My work spans **Generative AI, NLP pipelines, and assistive technologies**, combining software and hardware to solve real-world problems.  
 
-I focus on projects integrating:  
+I specialize in projects integrating:  
+- Transformer-based NLP models and text pipelines  
 - Deep learning, LLMs, and computer vision  
 - Streamlit and Flask-based web applications  
-- Arduino-based hardware prototypes  
-- Audio-to-notation and real-time audio processing tools
+- Arduino and embedded hardware prototypes  
 
 ---
 
-## Current and Featured Projects
+## Internship Experience
 
-### Dynamic Impact Tool – Internship Project  
-**Repository:** [Medha Tech – Dynamic Impact Tool](https://github.com/MedhaTech/Dynamic-Impact-Tool.git)  
-**Role:** Intern, AI & ML Developer  
+### Dynamic Impact Tool – Medha Tech  
+**Role:** AI & ML Intern  
+**Repository:** [Dynamic Impact Tool](https://github.com/MedhaTech/Dynamic-Impact-Tool.git)  
 
-Developed a tool to **analyze dynamic impact data** and generate actionable insights for engineering applications. The system combines data processing, machine learning modeling, and a web-based dashboard to visualize impact metrics.  
+Developed a **data-driven tool for analyzing dynamic impact data** and generating actionable insights. The project involved ML models, preprocessing pipelines, and a web-based dashboard for visualization.  
 
 **Key Contributions:**  
-- Implemented ML models for data prediction and analysis  
-- Built a Flask-based dashboard for visualization and reporting  
-- Optimized data preprocessing pipelines for large datasets  
+- Built ML models for prediction and impact analysis  
+- Developed a Flask dashboard for visualization and reporting  
+- Optimized preprocessing pipelines for real-world datasets  
+- Hands-on experience in ML deployment and collaborative software development  
 
 ---
 
-### Blind Assistance  
-**Repository:** [Blind Assistance](https://github.com/Immanuel2004/Blind-Assistance)  
+## Portfolio View – Featured Projects
 
-AI + IoT-based object detection and feedback system for visually impaired users.  
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
 
-**Tech Highlights:**  
-- YOLOv5 + Flask + OpenCV for real-time object detection  
-- Arduino + Ultrasonic sensor for obstacle detection  
-- Audio feedback through browser TTS  
+<div style="border:1px solid #ddd; border-radius:8px; padding:15px; width:300px;">
+**FretScribe**  
+[Repository](https://github.com/Immanuel2004/FretScribe)  
 
----
-
-### FretScribe  
-**Repository:** [FretScribe](https://github.com/Immanuel2004/FretScribe)  
-
-Converts live or uploaded guitar audio into **tablature and staff notation**.  
+Convert live or uploaded **guitar audio into tablature and staff notation** using real-time ML.  
 
 **Built With:** Streamlit, torchaudio, MusicXML rendering, custom ML pipeline  
+</div>
 
----
+<div style="border:1px solid #ddd; border-radius:8px; padding:15px; width:300px;">
+**End-to-End ML Project – Exam Score Predictor**  
+[Repository](https://github.com/Immanuel2004/ml-project.git)  
 
-### End-to-End ML Project – Exam Score Predictor  
-**Repository:** [End-to-End ML Project](https://github.com/Immanuel2004/End-to-End-ML-Project)  
+Predicts students' math scores using **demographic and academic features** with **NLP-informed feature pipelines**.  
 
-Predicts students' math scores based on demographic and academic data using a complete ML pipeline.  
+**Key Highlights:**  
+- Flask-based web app for live predictions  
+- Regression and transformer-based feature engineering  
+- Data preprocessing and EDA pipelines  
+</div>
 
-**Tech Highlights:**  
-- Flask web application for real-time predictions  
-- Data preprocessing, EDA, and model training  
-- Scikit-learn regression model with deployed pipeline  
+<div style="border:1px solid #ddd; border-radius:8px; padding:15px; width:300px;">
+**Dynamic Impact Tool – Medha Tech**  
+[Repository](https://github.com/MedhaTech/Dynamic-Impact-Tool.git)  
 
----
+Data-driven ML tool for analyzing impact data and generating actionable insights for industrial applications.  
 
-### Audio Event Detection System  
-**Repository:** [Audio Event Detection](https://github.com/Immanuel2004/Audio-Event-Detection)  
+**Tech Highlights:** ML models, Flask dashboard, preprocessing pipelines  
+</div>
 
-Detects audio events in real-time and classifies them for surveillance or accessibility applications.  
+<div style="border:1px solid #ddd; border-radius:8px; padding:15px; width:300px;">
+**Text Summarizer**  
+[Repository](https://github.com/Immanuel2004/Text-Summarizer)  
 
-**Tech Highlights:**  
-- PyTorch-based CNN model for audio classification  
-- Real-time feature extraction using torchaudio  
-- Streamlit interface for visualization and feedback  
+Generates concise summaries from long documents using Hugging Face transformers.  
+
+**Tech Highlights:** Transformers, NLP pipelines, Python  
+</div>
+
+<div style="border:1px solid #ddd; border-radius:8px; padding:15px; width:300px;">
+**Sentiment Analysis Pipeline**  
+[Repository](https://github.com/Immanuel2004/Sentiment-Analysis-Pipeline)  
+
+Real-time sentiment classification for social media text using transformer models.  
+
+**Tech Highlights:** Transformers, Hugging Face, Python, Streamlit  
+</div>
+
+<div style="border:1px solid #ddd; border-radius:8px; padding:15px; width:300px;">
+**Question Answering System**  
+[Repository](https://github.com/Immanuel2004/Question-Answering-System)  
+
+Transformer-based system for answering domain-specific questions in real-time.  
+
+**Tech Highlights:** NLP, Hugging Face transformers, Python  
+</div>
+
+</div>
 
 ---
 
 ## Focus Areas
 
-- AI & ML: Supervised/Unsupervised Learning, Model Deployment  
-- Data: EDA, feature engineering, visualizations, pipelines  
-- GenAI: Hugging Face, LangChain, LLMs for intelligent systems  
-- Computer Vision: YOLOv5, OpenCV, real-time video processing  
-- Embedded Systems: Arduino, sensors, real-world interfacing  
-- Web/App Development: Streamlit, Flask, FastAPI  
+- **AI & ML:** Supervised/Unsupervised Learning, NLP, Transformers, Model Deployment  
+- **Data:** EDA, feature engineering, visualizations, pipelines  
+- **GenAI:** Hugging Face, LangChain, LLMs  
+- **Computer Vision:** YOLOv5, OpenCV  
+- **Embedded Systems:** Arduino, sensors, real-world interfacing  
+- **Web/App Development:** Streamlit, Flask, FastAPI  
 
 ---
 
 ## Tech Stack
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)  
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-
-**Frameworks & Tools**  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
-
-**AI, ML & GenAI**  
-![Hugging Face](https://img.shields.io/badge/-Huggingface-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)  
-![LangChain](https://img.shields.io/badge/-LangChain-blueviolet?style=for-the-badge)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-
-**Libraries**  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib)  
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly)  
-
-**DevOps & Experiment Tracking**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![DVC](https://img.shields.io/badge/-DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)  
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)  
+**Languages & Frameworks:** Python, JavaScript, C, Java  
+**Frameworks & Tools:** Flask, FastAPI, Streamlit  
+**AI, ML & GenAI:** Hugging Face, LangChain, TensorFlow, Scikit-learn, PyTorch  
+**Libraries:** NumPy, Pandas, Matplotlib, Plotly  
+**DevOps & Experiment Tracking:** Git, GitHub, DVC, MLflow  
 
 ---
 
@@ -125,6 +123,6 @@ Detects audio events in real-time and classifies them for surveillance or access
 
 ## Contact
 
-- Email: immanueljoshua35@gmail.com  
-- LinkedIn: [Immanuel G](https://www.linkedin.com/in/immanuelg01)  
-- GitHub: [Immanuel2004](https://github.com/Immanuel2004)
+- **Email:** immanueljoshua35@gmail.com  
+- **LinkedIn:** [Immanuel G](https://www.linkedin.com/in/immanuelg01)  
+- **GitHub:** [Immanuel2004](https://github.com/Immanuel2004)
