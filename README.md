@@ -104,6 +104,6 @@ Detects audio events in real-time and classifies them for surveillance or access
 
 ## Contact
 
-- Email: immanueljoshua35@example.com  
+- Email: immanueljoshua35@gmail.com  
 - LinkedIn: [Immanuel G](https://www.linkedin.com/in/immanuelg01)  
 - GitHub: [Immanuel2004](https://github.com/Immanuel2004)
