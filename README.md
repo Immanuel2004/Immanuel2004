@@ -13,6 +13,7 @@ I’m a passionate AI Engineer focused on **building intelligent solutions that 
 The Dynamic Impact Tool is a tailored solution built to bridge the gap between technical and non-technical teams.
 It helps organizations analyze, visualize, and track real-time impact through smart dashboards and automated insights.
 This tool turns complex data into clear, actionable information, empowering faster and more confident decision-making.
+
 **Key Achievements:**
 - 💡 Created a user-friendly analytics platform that simplifies complex data for all users.
 - ⚙️ Automated data pipelines to ensure real-time and accurate updates.
