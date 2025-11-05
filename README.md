@@ -7,7 +7,7 @@ I’m a passionate AI Engineer focused on **building intelligent solutions that 
 ## 💼 Internship Experience
 
 ### Dynamic Impact Tool – Medha Tech
-[Repository Link](https://github.com/Immanuel2004/Immanuel2004.git)  
+[Repository Link](https://github.com/MedhaTech/Dynamic-Impact-Tool.git)  
 
 **About the Project:**  
 The Dynamic Impact Tool is a tailored solution built to bridge the gap between technical and non-technical teams.
