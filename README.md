@@ -94,6 +94,11 @@ This tool turns complex data into clear, actionable information, empowering fast
 
 ---
 
+## Contribution Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Immanuel2004&theme=react-dark)](https://github.com/Immanuel2004)
+
+---
+
 ## 📫 Contact
 
 - **Email:** immanueljoshua35@gmail.com  
