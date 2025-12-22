@@ -4,7 +4,7 @@ I’m a passionate AI Engineer focused on **building intelligent solutions that 
 
 ---
 
-## 💼 Internship Experience
+## Internship Experience
 
 ### Dynamic Impact Tool – Medha Tech
 [Repository Link](https://github.com/MedhaTech/Dynamic-Impact-Tool.git)  
@@ -31,7 +31,7 @@ This tool turns complex data into clear, actionable information, empowering fast
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## Tech Stack & Expertise
 
 **Programming & Scripting:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -57,7 +57,7 @@ This tool turns complex data into clear, actionable information, empowering fast
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Immanuel2004&show_icons=true&theme=radical" />
@@ -75,9 +75,18 @@ This tool turns complex data into clear, actionable information, empowering fast
 
 ---
 
-## 📫 Contact
+## Contact
 
-- **Email:** immanueljoshua35@gmail.com  
-- **LinkedIn:** [Immanuel G](https://www.linkedin.com/in/immanuelg01)  
-- **GitHub:** [Immanuel2004](https://github.com/Immanuel2004)  
-
+<p align="center">
+  <a href="https://github.com/Immanuel2004" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/60/ffffff/github.png" width="48" alt="GitHub"/>
+  </a>
+     
+  <a href="https://www.linkedin.com/in/immanuelg01" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/60/ffffff/linkedin.png" width="48" alt="LinkedIn"/>
+  </a>
+     
+  <a href="mailto:immanueljoshua35@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/60/ffffff/gmail.png" width="48" alt="Email"/>
+  </a>
+</p>
