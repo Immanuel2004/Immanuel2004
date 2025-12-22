@@ -60,7 +60,6 @@ This tool turns complex data into clear, actionable information, empowering fast
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Immanuel2004&show_icons=true&theme=radical" />
-
 <img src="https://streak-stats.demolab.com?user=Immanuel2004&theme=radical&hide_border=true&cache_seconds=21600" />
 
 ---
