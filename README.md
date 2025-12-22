@@ -59,7 +59,14 @@ This tool turns complex data into clear, actionable information, empowering fast
 
 ## 📈 GitHub Stats
 
-![Immanuel2004's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Immanuel2004&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Immanuel2004&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Immanuel2004&theme=radical&hide_border=true&cache_seconds=21600" />
+</p>
+
 
 ---
 
