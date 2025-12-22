@@ -59,13 +59,10 @@ This tool turns complex data into clear, actionable information, empowering fast
 
 ## GitHub Stats
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Immanuel2004&show_icons=true&theme=radical" />
-</p>
 
-<p align="center">
+
   <img src="https://streak-stats.demolab.com?user=Immanuel2004&theme=radical&hide_border=true&cache_seconds=21600" />
-</p>
 
 
 ---
@@ -77,16 +74,14 @@ This tool turns complex data into clear, actionable information, empowering fast
 
 ## Contact
 
-<p align="center">
-  <a href="https://github.com/Immanuel2004" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/60/ffffff/github.png" width="48" alt="GitHub"/>
-  </a>
-     
-  <a href="https://www.linkedin.com/in/immanuelg01" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/60/ffffff/linkedin.png" width="48" alt="LinkedIn"/>
-  </a>
-     
-  <a href="mailto:immanueljoshua35@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/60/ffffff/gmail.png" width="48" alt="Email"/>
-  </a>
-</p>
+<a href="https://github.com/Immanuel2004" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/60/ffffff/github.png" width="48" alt="GitHub"/>
+</a>
+   
+<a href="https://www.linkedin.com/in/immanuelg01" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/60/ffffff/linkedin.png" width="48" alt="LinkedIn"/>
+</a>
+   
+<a href="mailto:immanueljoshua35@gmail.com">
+  <img src="https://img.icons8.com/ios-filled/60/ffffff/gmail.png" width="48" alt="Email"/>
+</a>
