@@ -31,42 +31,11 @@ This tool turns complex data into clear, actionable information, empowering fast
 
 ---
 
-## 🌟 Featured Projects
-
-### [RNN Sentiment Analysis](https://github.com/Immanuel2004/RNN-SentimentAnalysis.git)
-**Impact:** Built a **state-of-the-art sentiment classification model** that interprets textual data for actionable insights.  
-**Tech Stack:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-
-### [SMS Spam Classification](https://github.com/Immanuel2004/SMS-Spam-Classification-.git)
-**Impact:** Developed a **robust NLP-based model** to detect spam messages, improving communication safety.  
-**Tech Stack:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-
-### [Flask ATS](https://github.com/Immanuel2004/Flask-ATS.git)
-**Impact:** Designed a **full-featured Applicant Tracking System** to streamline recruitment workflows.  
-**Tech Stack:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-
-### [Blind Assistance](https://github.com/Immanuel2004/blind-assistance.git)
-**Impact:** Created a **computer vision-based assistive tool** empowering visually impaired users to navigate environments safely.  
-**Tech Stack:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) 
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
-
----
-
 ## 🛠️ Tech Stack & Expertise
 
 **Programming & Scripting:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 
 **Machine Learning & AI:**  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
