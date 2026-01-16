@@ -33,34 +33,24 @@ This tool turns complex data into clear, actionable information, empowering fast
 
 ## Tech Stack & Expertise
 
-**Programming & Scripting:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-
-**Machine Learning & AI:**  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-
-**Web & App Development:**  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
-
-**Data Analysis & Visualization:**  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-F2762B?style=for-the-badge&logo=matplotlib&logoColor=white) 
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-
-**Computer Vision & Embedded Systems:**  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
+<img src="https://skillicons.dev/icons?i=python,c,pytorch,tensorflow,sklearn,flask,fastapi,opencv,arduino,git,github,githubactions,linux,bootstrap,langchain,mlflow,bentoml,dvc&theme=dark" />
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=flat&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangSmith-1f2937?style=flat"/>
+  <img src="https://img.shields.io/badge/CrewAI-111827?style=flat"/>
+  <img src="https://img.shields.io/badge/LangFlow-2563eb?style=flat"/>
+  <img src="https://img.shields.io/badge/Groq-f97316?style=flat"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth-3b82f6?style=flat"/>
+</p>
 
 ---
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Immanuel2004&show_icons=true&theme=radical" />
-<img src="https://streak-stats.demolab.com?user=Immanuel2004&theme=radical&hide_border=true&cache_seconds=21600" />
+![Stats](https://github-readme-stats.vercel.app/api?username=Immanuel2004&show_icons=true&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=Immanuel2004&theme=radical)
+
 
 ---
 
