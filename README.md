@@ -49,6 +49,8 @@ This tool turns complex data into clear, actionable information, empowering fast
 ## GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Immanuel2004&show_icons=true&theme=radical)
+
+
 ![Streak](https://streak-stats.demolab.com?user=Immanuel2004&theme=radical)
 
 
