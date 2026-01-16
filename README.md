@@ -41,12 +41,6 @@ This tool turns complex data into clear, actionable information, empowering fast
   <img src="https://img.shields.io/badge/Groq-f97316?style=flat"/>
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/OAuth-3b82f6?style=flat"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="42"/>
-
 </p>
 
 ---
