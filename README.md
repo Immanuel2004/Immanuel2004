@@ -14,20 +14,20 @@ The Dynamic Impact Tool is a tailored solution built to bridge the gap between t
 It helps organizations analyze, visualize, and track real-time impact through smart dashboards and automated insights.
 This tool turns complex data into clear, actionable information, empowering faster and more confident decision-making.
 
-**Key Achievements:**
-- 💡 Created a user-friendly analytics platform that simplifies complex data for all users.
-- ⚙️ Automated data pipelines to ensure real-time and accurate updates.
-- 📊 Built interactive dashboards for better visibility and quick insights.
-- 🔍 Integrated predictive analytics to forecast performance and impact trends.
-- ⏱️ Reduced manual reporting efforts by 60%, improving efficiency.
-- 🤝 Bridged technical and business communication, enhancing collaboration.
-- 🔒 Maintained strong data accuracy and reliability through validation processes.
   
 **Tech Stack:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-F2762B?style=for-the-badge&logo=matplotlib&logoColor=white)  
+<p align="left">
+  <!-- Core -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pydantic/pydantic-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="42"/>
+</p>
+ 
 
 ---
 
@@ -42,6 +42,12 @@ This tool turns complex data into clear, actionable information, empowering fast
   <img src="https://img.shields.io/badge/Groq-f97316?style=flat"/>
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/OAuth-3b82f6?style=flat"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="42"/>
+
 </p>
 
 ---
