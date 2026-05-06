@@ -4,32 +4,6 @@ I’m a passionate AI Engineer focused on **building intelligent solutions that 
 
 ---
 
-## Internship Experience
-
-### Dynamic Impact Tool – Medha Tech
-[Repository Link](https://github.com/MedhaTech/Dynamic-Impact-Tool.git)  
-
-**About the Project:**  
-The Dynamic Impact Tool is a tailored solution built to bridge the gap between technical and non-technical teams.
-It helps organizations analyze, visualize, and track real-time impact through smart dashboards and automated insights.
-This tool turns complex data into clear, actionable information, empowering faster and more confident decision-making.
-
-  
-**Tech Stack:**  
-<p align="left">
-  <!-- Core -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="42"/>
-</p>
- 
-
----
-
 ## Tech Stack & Expertise
 
 <img src="https://skillicons.dev/icons?i=python,c,pytorch,tensorflow,sklearn,flask,fastapi,opencv,arduino,git,github,githubactions,linux,bootstrap,langchain,mlflow,bentoml,dvc&theme=dark" />
