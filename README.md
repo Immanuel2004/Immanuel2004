@@ -34,3 +34,4 @@ Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, Agentic AI
 ## Contribution Graph
 
 [![Immanuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Immanuel2004&theme=tokyo-night)](https://github.com/Immanuel2004)
+
