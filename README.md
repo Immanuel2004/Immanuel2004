@@ -16,63 +16,12 @@ Advanced concepts in Generative AI, Agentic AI architectures, LLM orchestration,
 Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, Agentic AI, and end-to-end AI product development.
 
 ## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_immanuel_g) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/immanuelg01/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@immanueljoshua35) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:immanueljoshua35@gmail.com) 
 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/_immanuel_g) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/immanuelg01) [![Medium](https://go-skill-icons.vercel.app/api/icons?i=medium)](https://medium.com/@immanueljoshua35) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:immanueljoshua35@gmail.com)
 # Tech Stack:
 
-### Languages
-![Python](https://skillicons.dev/icons?i=python)
-![C](https://skillicons.dev/icons?i=c)
+![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![PyTorch](https://skillicons.dev/icons?i=pytorch) ![Scikit Learn](https://go-skill-icons.vercel.app/api/icons?i=sklearn) ![Matplotlib](https://go-skill-icons.vercel.app/api/icons?i=matplotlib) ![Django](https://skillicons.dev/icons?i=django) ![Flask](https://skillicons.dev/icons?i=flask) ![FastAPI](https://go-skill-icons.vercel.app/api/icons?i=fastapi) ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Firebase](https://skillicons.dev/icons?i=firebase) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Netlify](https://skillicons.dev/icons?i=netlify) ![Heroku](https://skillicons.dev/icons?i=heroku) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![Redis](https://skillicons.dev/icons?i=redis) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![GitLab](https://skillicons.dev/icons?i=gitlab) ![GitHub Actions](https://go-skill-icons.vercel.app/api/icons?i=githubactions) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![Postman](https://skillicons.dev/icons?i=postman) ![Kafka](https://skillicons.dev/icons?i=kafka) ![Plotly](https://go-skill-icons.vercel.app/api/icons?i=plotly) ![Figma](https://skillicons.dev/icons?i=figma) ![Canva](https://go-skill-icons.vercel.app/api/icons?i=canva) ![Arduino](https://skillicons.dev/icons?i=arduino) ![Markdown](https://skillicons.dev/icons?i=markdown) ![LaTeX](https://skillicons.dev/icons?i=latex) ![LangChain](https://go-skill-icons.vercel.app/api/icons?i=langchain) ![HuggingFace](https://go-skill-icons.vercel.app/api/icons?i=huggingface) ![Pinecone](https://go-skill-icons.vercel.app/api/icons?i=pinecone) ![Ollama](https://go-skill-icons.vercel.app/api/icons?i=ollama) ![LlamaIndex](https://go-skill-icons.vercel.app/api/icons?i=llamaindex) ![MLflow](https://go-skill-icons.vercel.app/api/icons?i=mlflow) ![Airflow](https://go-skill-icons.vercel.app/api/icons?i=airflow) ![DVC](https://go-skill-icons.vercel.app/api/icons?i=dvc) ![Pandas](https://skillicons.dev/icons?i=pandas) ![NumPy](https://skillicons.dev/icons?i=numpy) ![Keras](https://go-skill-icons.vercel.app/api/icons?i=keras) ![Streamlit](https://skillicons.dev/icons?i=streamlit) ![Power BI](https://go-skill-icons.vercel.app/api/icons?i=powerbi) ![LangGraph](https://go-skill-icons.vercel.app/api/icons?i=langgraph) ![OpenAI](https://go-skill-icons.vercel.app/api/icons?i=openai) ![ChromaDB](https://go-skill-icons.vercel.app/api/icons?i=chromadb) ![Weaviate](https://go-skill-icons.vercel.app/api/icons?i=weaviate)
 
-### AI / ML / Data Science
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![Scikit Learn](https://go-skill-icons.vercel.app/api/icons?i=sklearn)
-![Keras](https://go-skill-icons.vercel.app/api/icons?i=keras)
-![NumPy](https://skillicons.dev/icons?i=numpy)
-![Pandas](https://skillicons.dev/icons?i=pandas)
-![Matplotlib](https://go-skill-icons.vercel.app/api/icons?i=matplotlib)
-
-### Backend & APIs
-![Django](https://skillicons.dev/icons?i=django)
-![Flask](https://skillicons.dev/icons?i=flask)
-![FastAPI](https://go-skill-icons.vercel.app/api/icons?i=fastapi)
-
-### Cloud & Deployment
-![AWS](https://skillicons.dev/icons?i=aws)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-![Netlify](https://skillicons.dev/icons?i=netlify)
-![Heroku](https://skillicons.dev/icons?i=heroku)
-
-### Databases
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-![Redis](https://skillicons.dev/icons?i=redis)
-
-### DevOps & Tools
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![GitLab](https://skillicons.dev/icons?i=gitlab)
-![GitHub Actions](https://go-skill-icons.vercel.app/api/icons?i=githubactions)
-![Jenkins](https://skillicons.dev/icons?i=jenkins)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Kafka](https://skillicons.dev/icons?i=kafka)
-
-### Visualization & Design
-![Streamlit](https://skillicons.dev/icons?i=streamlit)
-![Plotly](https://go-skill-icons.vercel.app/api/icons?i=plotly)
-![Power BI](https://go-skill-icons.vercel.app/api/icons?i=powerbi)
-![Figma](https://skillicons.dev/icons?i=figma)
-![Canva](https://go-skill-icons.vercel.app/api/icons?i=canva)
-
-### Other Technologies
-![Arduino](https://skillicons.dev/icons?i=arduino)
-![Markdown](https://skillicons.dev/icons?i=markdown)
-![LaTeX](https://skillicons.dev/icons?i=latex)
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Immanuel2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Immanuel2004&theme=dark&hide_border=false)<br/>
@@ -81,10 +30,7 @@ Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, Agentic AI
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Immanuel2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Immanuel2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Contribution Graph
 
----
-[![](https://komarev.com/ghpvc/?username=Immanuel2004&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Immanuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Immanuel2004&theme=tokyo-night)](https://github.com/Immanuel2004)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
