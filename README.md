@@ -16,7 +16,6 @@ Advanced concepts in Generative AI, Agentic AI architectures, LLM orchestration,
 Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, Agentic AI, and end-to-end AI product development.
 
 ## Socials:
-
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/_immanuel_g) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/immanuelg01) [![Medium](https://go-skill-icons.vercel.app/api/icons?i=medium)](https://medium.com/@immanueljoshua35) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:immanueljoshua35@gmail.com)
 
 # Tech Stack:
@@ -34,3 +33,4 @@ Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, Agentic AI
 ## Contribution Graph
 
 [![Immanuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Immanuel2004&theme=tokyo-night)](https://github.com/Immanuel2004)
+
