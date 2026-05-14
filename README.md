@@ -11,7 +11,6 @@ Scaling AI-driven systems, deploying autonomous AI agents, and advancing researc
 
 **Currently Learning**  
 Advanced concepts in Generative AI, Agentic AI architectures, LLM orchestration, Retrieval-Augmented Generation (RAG), and scalable AI system design.
-
 **Ask Me About**  
 Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, Agentic AI, and end-to-end AI product development.
 
